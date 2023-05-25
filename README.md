@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://t.me/ITteenager2">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Телеграм&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ITteenager2&style=flat-square&color=blue" alt=""/>

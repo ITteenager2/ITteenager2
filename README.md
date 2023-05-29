@@ -1,14 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="[your-linkedin-URL](https://vk.com/eugenway)">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Vkontakte&logoColor=white" alt="VK Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCj0ZmKIckmW6hg-XVf_9ahQ">
+    <a href="[https://www.youtube.com/channel/UCj0ZmKIckmW6hg-XVf_9ahQ](https://www.youtube.com/channel/UCFafnNkxNiuLei0aH6WzMtg)">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://t.me/ITteenager2">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ITteenager2&style=flat-square&color=blue" alt=""/>

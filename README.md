@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="[https://www.youtube.com/channel/UCj0ZmKIckmW6hg-XVf_9ahQ](https://www.youtube.com/channel/UCFafnNkxNiuLei0aH6WzMtg)">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="[https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white](https://www.youtube.com/channel/UCFafnNkxNiuLei0aH6WzMtg)" alt="Youtube Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=ITteenager2&style=flat-square&color=blue" alt=""/>

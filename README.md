@@ -16,7 +16,7 @@
 
 ### :woman_technologist: About Me :
 Я Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
-- :telescope: Я работаю у ютуберов и готов к новым сотрудничествам.
+- :telescope: Работаю 24/7
 
 - :seedling: Изучение написания технического контента.
 

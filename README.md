@@ -4,7 +4,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=ITteenager2&style=flat-square&color=blue" alt=""/>
   <h1>
-    Привет, странник!
+    Привет, путник!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -16,13 +16,12 @@
 
 ### :woman_technologist: About Me :
 Я Backend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
-- :telescope: Работаю 24/7
 
 - :seedling: Изучение написания технического контента.
 
-- :zap: В свободное время решаю задачи на GeeksforGeeks, Stepik и читаю статьи по социальной инженерии.
+- :zap: В свободное время пишу какую то ерунду на ts/py
 
-- :mailbox:Связаться со мной [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:Связаться со мной [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://t.me/evgesha_aga)
 
 ---
 
